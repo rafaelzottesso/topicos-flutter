@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351713617528",
+    "project_id": "tet2026-5776d",
+    "storage_bucket": "tet2026-5776d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351713617528:android:d2748214986b7e8344ef8d",
+        "android_client_info": {
+          "package_name": "com.mycompany.topicosespeciais2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7TIHbLOBajmamdCAYTA2LrinJFiu3aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
